@@ -1,7 +1,7 @@
 # Google_Play-Store
 >(Bashayer Alshehri 8 Sep, 2020)
 
-#Introduction :
+# Introduction :
 The Play Store apps data has enormous potential to drive app-making businesses to success. Actionable insights can be drawn for developers to work on and capture the Android market!
 
 You can find the Dataset from here : https://www.kaggle.com/lava18/google-play-store-apps
